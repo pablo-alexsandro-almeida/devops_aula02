@@ -1,1 +1,3 @@
-# devops_aula02
+Will Smith
+Dwayne Johnson
+Jared Leto
