@@ -1,5 +1,5 @@
-Will Smith
-Dwayne Johnson
-Jared Leto
+Will Smith  
+Dwayne Johnson  
+Jared Leto  
 
-Na Branch
+Na Branch  
